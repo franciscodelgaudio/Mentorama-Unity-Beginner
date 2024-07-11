@@ -18,3 +18,7 @@ Exportar um projeto level greybox: iluminação, prefab.
 <img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/scene.png" alt="project" style="width: 500px; max-width: 100%">
 
 # Módulo 3
+Terceira atividade do módulo:  
+Implementar um código que realize o cálculo de quantidade de cédulas de um valor.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module3">Arquivo de Atividades</a>  
+<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module3/resultado_fatorial.png" alt="project" style="width: 500px; max-width: 100%">
