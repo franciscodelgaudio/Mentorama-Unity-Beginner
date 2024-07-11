@@ -22,3 +22,13 @@ Terceira atividade do módulo:
 Implementar um código que realize o cálculo de quantidade de cédulas de um valor.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module3">Arquivo de Atividades</a>  
 <img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module3/resposta.png" alt="project" style="width: 500px; max-width: 100%">
+
+# Módulo 4
+Quarta atividade do módulo:  
+Exportar build com 3 funcionalidades:  
+  
+* dropdown: resolução;  
+* checkbox: fullscreen;  
+* button: close apllication.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module3">Arquivo de Atividades</a>  
+<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module3/resposta.png" alt="project" style="width: 500px; max-width: 100%">
