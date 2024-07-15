@@ -33,6 +33,19 @@ Exportar build com 3 funcionalidades:
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>  
 <video src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/assets/71088998/38769fca-75df-415d-9349-9fd6e71d802e" alt="project" style="width: 500px; max-width: 100%">
 
+# Módulo 5
+Quinta atividade do módulo:  
+Desenvolver um minigame (quiz) com:  
+
+Adicionar perguntas com dificuldades diferentes;  
+Pontuações diferentes;  
+Powerup: pular pergunta, eliminar perguntas erradas;  
+Melhorar visual.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module5">Arquivo de Atividades</a>  
+<video src="https://github.com/user-attachments/assets/90c6e54a-e7c1-4ed5-9ee4-889dc185a1c5" alt="project" style="width: 500px; max-width: 100%">
+
+
+
 
 
 
