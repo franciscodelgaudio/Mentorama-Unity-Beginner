@@ -40,3 +40,10 @@ Powerup: pular pergunta, eliminar perguntas erradas;
 Melhorar visual.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module5">Arquivo de Atividades</a>  
 <video src="https://github.com/user-attachments/assets/90c6e54a-e7c1-4ed5-9ee4-889dc185a1c5" alt="project" style="width: 500px; max-width: 100%">
+
+# Módulo 6
+Sexta atividade do módulo:  
+Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module6">Arquivo de Atividades</a>
+<video src="https://github.com/user-attachments/assets/539950ef-f3fd-4c71-9b20-4c3daab4c8c7" alt="project" style="width: 500px; max-width:100%">
+
