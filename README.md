@@ -53,7 +53,11 @@ Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para ma
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module7">Arquivo de Atividades</a>  
 <video src="https://github.com/user-attachments/assets/230ad004-7a86-49a6-bc57-54aabea7f82b" alt="project" style="width: 500px; max-width:100%">  
 
-
+# Módulo 8
+Oitava atividade do módulo:  
+Importar assets de uma cidade no projeto e criar modelos de prefab  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module8">Arquivo de Atividades</a>  
+<video src="https://github.com/user-attachments/assets/230ad004-7a86-49a6-bc57-54aabea7f82b" alt="project" style="width: 500px; max-width:100%">  
 
 
 
