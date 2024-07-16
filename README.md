@@ -64,7 +64,7 @@ Nona atividade do módulo:
 Fazer a animação do player com combo.  
 Arquivos da Atividade  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module9">Arquivo de Atividades</a>  
-<img alt="Video.gif" src="https://github.com/user-attachments/assets/98b71fb9-40ce-40f7-b990-8bc9a00baded" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<video src="https://github.com/user-attachments/assets/98b71fb9-40ce-40f7-b990-8bc9a00baded" alt="project" style="width: 500px; max-width:100%">
 
 
 
