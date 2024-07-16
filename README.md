@@ -58,3 +58,10 @@ Oitava atividade do módulo:
 Importar assets de uma cidade no projeto e criar modelos de prefab  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module8">Arquivo de Atividades</a>  
 <img alt="Video.gif" src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module8/video%20(1).gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
+#Módulo 94
+Nona atividade do módulo:
+Fazer a animação do player com combo.
+Arquivos da Atividade
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module8">Arquivo de Atividades</a>  
+<img alt="Video.gif" src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module8/video%20(1).gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
