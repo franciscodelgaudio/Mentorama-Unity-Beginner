@@ -12,8 +12,8 @@ Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.
 Segunda atividade do módulo:  
 Exportar um projeto level greybox: iluminação, prefab.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module2">Arquivo de Atividades</a>  
-<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/game.png" alt="project" style="width: 500px; max-width: 100%">
-<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/scene.png" alt="project" style="width: 500px; max-width: 100%">
+  
+<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/game.png" alt="project" style="max-width: 100%">
 
 # Módulo 3
 Terceira atividade do módulo:  
