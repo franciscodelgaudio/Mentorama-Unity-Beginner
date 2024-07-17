@@ -7,6 +7,11 @@
 # Módulo 1
 Primeira atividade do módulo:  
 Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module1">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df55ca10-ea69-40b8-b069-432d7e199bf6" alt="project" style="max-width: 100%">
+</div>
 
 
 # Módulo 2
@@ -35,10 +40,18 @@ Exportar build com 3 funcionalidades:
   
 * dropdown: resolução;  
 * checkbox: fullscreen;  
-* button: close apllication.  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>  
-<video src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/assets/71088998/38769fca-75df-415d-9349-9fd6e71d802e" alt="project" style="width: 500px; max-width: 100%">
+* button: close apllication.
+
+Adicionado:  
+* Resolução baseada no sistema.  
+* Sistema de som e volume.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>
   
+<div align="center">
+  <video autoplay loop muted src="https://github.com/user-attachments/assets/d3643a43-c715-4a71-ba13-f0d6aa9d8337" alt="project" style="width: 500px; max-width: 100%" >
+</div>
+
+
 # Módulo 5
 Quinta atividade do módulo:  
 Desenvolver um minigame (quiz) com:  
