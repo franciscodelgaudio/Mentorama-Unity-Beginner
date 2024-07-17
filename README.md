@@ -7,6 +7,11 @@
 # Módulo 1
 Primeira atividade do módulo:  
 Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module1">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/df55ca10-ea69-40b8-b069-432d7e199bf6" alt="project" style="max-width: 100%">
+</div>
 
 
 # Módulo 2
