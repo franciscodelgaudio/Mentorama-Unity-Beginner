@@ -8,20 +8,26 @@
 Primeira atividade do módulo:  
 Ambientalizar-se na ferramenta unity: hierarquia, cena, layout.  
 
+
 # Módulo 2
 Segunda atividade do módulo:  
 Exportar um projeto level greybox: iluminação, prefab.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module2">Arquivo de Atividades</a>  
   
-<img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/game.png" alt="project" style="max-width: 100%">
+<div align="center">
+  <img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module2/game.png" alt="project" style="max-width: 100%">
+</div>
+
 
 # Módulo 3
 Terceira atividade do módulo:  
 Implementar um código que realize o cálculo de quantidade de cédulas de um valor.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module3">Arquivo de Atividades</a>  
+  
 <div align="center">
-  <img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module3/resposta.png" alt="project" style="max-width: 100%; text-align: center;">
+  <img src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module3/Console.png" alt="project" style="max-width: 100%; text-align: center;">
 </div>
+
 
 # Módulo 4
 Quarta atividade do módulo:  
@@ -31,7 +37,8 @@ Exportar build com 3 funcionalidades:
 * checkbox: fullscreen;  
 * button: close apllication.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>  
-<video src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/assets/71088998/38769fca-75df-415d-9349-9fd6e71d802e" alt="project" style="width: 500px; max-width: 100%">fgdgh
+<video src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/assets/71088998/38769fca-75df-415d-9349-9fd6e71d802e" alt="project" style="width: 500px; max-width: 100%">
+  
 # Módulo 5
 Quinta atividade do módulo:  
 Desenvolver um minigame (quiz) com:  
