@@ -35,9 +35,14 @@ Exportar build com 3 funcionalidades:
   
 * dropdown: resolução;  
 * checkbox: fullscreen;  
-* button: close apllication.  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>  
-<video src="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/assets/71088998/38769fca-75df-415d-9349-9fd6e71d802e" alt="project" style="width: 500px; max-width: 100%">
+* button: close apllication.
+
+Adicionado:  
+* Resolução baseada no sistema.  
+* Sistema de som e volume.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>
+  
+<video src="franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module4/Game.mp4" alt="project" style="width: 500px; max-width: 100%">
   
 # Módulo 5
 Quinta atividade do módulo:  
