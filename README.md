@@ -42,8 +42,11 @@ Adicionado:
 * Sistema de som e volume.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module4">Arquivo de Atividades</a>
   
-<video src="franciscodelgaudio/Mentorama-Unity-Beginner/blob/main/Files/Module4/Game.mp4" alt="project" style="width: 500px; max-width: 100%">
-  
+<div align="center">
+  <video autoplay loop muted src="https://github.com/user-attachments/assets/d3643a43-c715-4a71-ba13-f0d6aa9d8337" alt="project" style="width: 500px; max-width: 100%" >
+</div>
+
+
 # Módulo 5
 Quinta atividade do módulo:  
 Desenvolver um minigame (quiz) com:  
