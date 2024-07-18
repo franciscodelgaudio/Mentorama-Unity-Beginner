@@ -61,7 +61,10 @@ Pontuações diferentes;
 Powerup: pular pergunta, eliminar perguntas erradas;  
 Melhorar visual.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module5">Arquivo de Atividades</a>  
-<video src="https://github.com/user-attachments/assets/90c6e54a-e7c1-4ed5-9ee4-889dc185a1c5" alt="project" style="width: 500px; max-width: 100%">
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3b33c89a-b29d-44a2-8a7f-dd264415e0af" alt="project" style="max-width: 100%; text-align: center;">
+</div>
 
 # Módulo 6
 Sexta atividade do módulo:  
