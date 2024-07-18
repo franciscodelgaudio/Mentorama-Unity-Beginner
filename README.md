@@ -63,8 +63,9 @@ Melhorar visual.
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module5">Arquivo de Atividades</a>  
   
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3b33c89a-b29d-44a2-8a7f-dd264415e0af" alt="project" style="max-width: 100%;">
+  <img src="https://github.com/user-attachments/assets/a6042f27-b4c7-4c11-94db-e2e3f116314b" alt="project" style="max-width: 100%;">
 </div>
+
 
 # Módulo 6
 Sexta atividade do módulo:  
