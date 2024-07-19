@@ -81,7 +81,11 @@ Desenvolver um projeto onde deve instanciar scenes de forma aditiva conforme o p
 Sétima atividade do módulo:  
 Desenvolver um projeto on deve criar objeto colocando força no vetor Y, para manter o máximo de tempo no ar.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module7">Arquivo de Atividades</a>  
-<video src="https://github.com/user-attachments/assets/230ad004-7a86-49a6-bc57-54aabea7f82b" alt="project" style="width: 500px; max-width:100%">  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f67aadd0-8b7a-48ab-8498-9aa25ae52b4d" alt="project" style="max-width: 100%;">
+</div>
+
 
 # Módulo 8
 Oitava atividade do módulo:  
