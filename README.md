@@ -69,9 +69,13 @@ Melhorar visual.
 
 # Módulo 6
 Sexta atividade do módulo:  
-Desenvolver um projeto on deve instanciar scenes de forma aditiva conforme o player vai andando no mapa  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-Beginner/tree/main/Files/Module6">Arquivo de Atividades</a>
-<video src="https://github.com/user-attachments/assets/539950ef-f3fd-4c71-9b20-4c3daab4c8c7" alt="project" style="width: 500px; max-width:100%">
+Desenvolver um projeto onde deve instanciar scenes de forma aditiva conforme o player vai andando no mapa  
+<a href="https://github.com/user-attachments/assets/99571ce5-820f-410e-b4a4-df4088566c25">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f11f8d4e-de2b-4b5b-a4b5-9f5fb306990b" alt="project" style="max-width: 100%;">
+</div>
+
 
 # Módulo 7
 Sétima atividade do módulo:  
